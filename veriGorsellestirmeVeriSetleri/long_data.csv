@@ -1,0 +1,85 @@
+"Country","Income_per_capita","Environmental_spending","Income_Group","Highlight","Indicator","Value"
+"Turkiye",10500,1.2,"Dusuk Gelir","Turkiye","Education_spending",3.8
+"Turkiye",10500,1.2,"Dusuk Gelir","Turkiye","Health_spending",4.3
+"Turkiye",10500,1.2,"Dusuk Gelir","Turkiye","R_D_spending",1.1
+"Turkiye",10500,1.2,"Dusuk Gelir","Turkiye","Elderly_percent",9.5
+"Amerika",80700,2.5,"Yuksek Gelir","Diger","Education_spending",6.1
+"Amerika",80700,2.5,"Yuksek Gelir","Diger","Health_spending",8.4
+"Amerika",80700,2.5,"Yuksek Gelir","Diger","R_D_spending",3.5
+"Amerika",80700,2.5,"Yuksek Gelir","Diger","Elderly_percent",17.1
+"Birlesik Krallik",48000,1.9,"Orta Gelir","Diger","Education_spending",5.2
+"Birlesik Krallik",48000,1.9,"Orta Gelir","Diger","Health_spending",10.2
+"Birlesik Krallik",48000,1.9,"Orta Gelir","Diger","R_D_spending",2.8
+"Birlesik Krallik",48000,1.9,"Orta Gelir","Diger","Elderly_percent",18.7
+"Almanya",56000,2.1,"Yuksek Gelir","Diger","Education_spending",4.8
+"Almanya",56000,2.1,"Yuksek Gelir","Diger","Health_spending",11.7
+"Almanya",56000,2.1,"Yuksek Gelir","Diger","R_D_spending",3.1
+"Almanya",56000,2.1,"Yuksek Gelir","Diger","Elderly_percent",21.5
+"Fransa",47000,2,"Orta Gelir","Diger","Education_spending",5
+"Fransa",47000,2,"Orta Gelir","Diger","Health_spending",11.1
+"Fransa",47000,2,"Orta Gelir","Diger","R_D_spending",2.2
+"Fransa",47000,2,"Orta Gelir","Diger","Elderly_percent",20.4
+"Japonya",42000,1.6,"Orta Gelir","Diger","Education_spending",3.6
+"Japonya",42000,1.6,"Orta Gelir","Diger","Health_spending",10.9
+"Japonya",42000,1.6,"Orta Gelir","Diger","R_D_spending",3.4
+"Japonya",42000,1.6,"Orta Gelir","Diger","Elderly_percent",29.1
+"Kanada",52000,1.8,"Yuksek Gelir","Diger","Education_spending",5.4
+"Kanada",52000,1.8,"Yuksek Gelir","Diger","Health_spending",10.8
+"Kanada",52000,1.8,"Yuksek Gelir","Diger","R_D_spending",2
+"Kanada",52000,1.8,"Yuksek Gelir","Diger","Elderly_percent",18.4
+"Avustralya",55000,2,"Yuksek Gelir","Diger","Education_spending",5.6
+"Avustralya",55000,2,"Yuksek Gelir","Diger","Health_spending",9.3
+"Avustralya",55000,2,"Yuksek Gelir","Diger","R_D_spending",1.9
+"Avustralya",55000,2,"Yuksek Gelir","Diger","Elderly_percent",16.5
+"Guney Kore",41000,1.7,"Orta Gelir","Diger","Education_spending",4.9
+"Guney Kore",41000,1.7,"Orta Gelir","Diger","Health_spending",8.4
+"Guney Kore",41000,1.7,"Orta Gelir","Diger","R_D_spending",4.8
+"Guney Kore",41000,1.7,"Orta Gelir","Diger","Elderly_percent",18.1
+"Italya",39000,1.3,"Orta Gelir","Diger","Education_spending",4.2
+"Italya",39000,1.3,"Orta Gelir","Diger","Health_spending",8.7
+"Italya",39000,1.3,"Orta Gelir","Diger","R_D_spending",1.4
+"Italya",39000,1.3,"Orta Gelir","Diger","Elderly_percent",23.8
+"Ispanya",36000,1.4,"Orta Gelir","Diger","Education_spending",4.3
+"Ispanya",36000,1.4,"Orta Gelir","Diger","Health_spending",8.1
+"Ispanya",36000,1.4,"Orta Gelir","Diger","R_D_spending",1.3
+"Ispanya",36000,1.4,"Orta Gelir","Diger","Elderly_percent",20.1
+"Meksika",23000,1,"Dusuk Gelir","Diger","Education_spending",4.1
+"Meksika",23000,1,"Dusuk Gelir","Diger","Health_spending",5.5
+"Meksika",23000,1,"Dusuk Gelir","Diger","R_D_spending",0.3
+"Meksika",23000,1,"Dusuk Gelir","Diger","Elderly_percent",8.2
+"Hollanda",58000,2.2,"Yuksek Gelir","Diger","Education_spending",5
+"Hollanda",58000,2.2,"Yuksek Gelir","Diger","Health_spending",10.1
+"Hollanda",58000,2.2,"Yuksek Gelir","Diger","R_D_spending",2.3
+"Hollanda",58000,2.2,"Yuksek Gelir","Diger","Elderly_percent",19.6
+"Isvec",57000,2.1,"Yuksek Gelir","Diger","Education_spending",6.4
+"Isvec",57000,2.1,"Yuksek Gelir","Diger","Health_spending",10.9
+"Isvec",57000,2.1,"Yuksek Gelir","Diger","R_D_spending",3.4
+"Isvec",57000,2.1,"Yuksek Gelir","Diger","Elderly_percent",20.3
+"Polonya",22000,1.5,"Dusuk Gelir","Diger","Education_spending",5.2
+"Polonya",22000,1.5,"Dusuk Gelir","Diger","Health_spending",6.5
+"Polonya",22000,1.5,"Dusuk Gelir","Diger","R_D_spending",1.4
+"Polonya",22000,1.5,"Dusuk Gelir","Diger","Elderly_percent",17.7
+"Norvec",75000,2.3,"Yuksek Gelir","Diger","Education_spending",7
+"Norvec",75000,2.3,"Yuksek Gelir","Diger","Health_spending",10.5
+"Norvec",75000,2.3,"Yuksek Gelir","Diger","R_D_spending",1.7
+"Norvec",75000,2.3,"Yuksek Gelir","Diger","Elderly_percent",17
+"Finlandiya",60000,2.4,"Yuksek Gelir","Diger","Education_spending",6.1
+"Finlandiya",60000,2.4,"Yuksek Gelir","Diger","Health_spending",9.5
+"Finlandiya",60000,2.4,"Yuksek Gelir","Diger","R_D_spending",2.8
+"Finlandiya",60000,2.4,"Yuksek Gelir","Diger","Elderly_percent",21.9
+"Danimarka",69000,2.6,"Yuksek Gelir","Diger","Education_spending",6.5
+"Danimarka",69000,2.6,"Yuksek Gelir","Diger","Health_spending",10.2
+"Danimarka",69000,2.6,"Yuksek Gelir","Diger","R_D_spending",2.9
+"Danimarka",69000,2.6,"Yuksek Gelir","Diger","Elderly_percent",20
+"Belcika",53000,2,"Yuksek Gelir","Diger","Education_spending",6.2
+"Belcika",53000,2,"Yuksek Gelir","Diger","Health_spending",10.7
+"Belcika",53000,2,"Yuksek Gelir","Diger","R_D_spending",2.7
+"Belcika",53000,2,"Yuksek Gelir","Diger","Elderly_percent",18.3
+"Isvicre",88000,2.7,"Yuksek Gelir","Diger","Education_spending",6.8
+"Isvicre",88000,2.7,"Yuksek Gelir","Diger","Health_spending",11.5
+"Isvicre",88000,2.7,"Yuksek Gelir","Diger","R_D_spending",3.6
+"Isvicre",88000,2.7,"Yuksek Gelir","Diger","Elderly_percent",19.7
+"Avusturya",62000,2.1,"Yuksek Gelir","Diger","Education_spending",5.3
+"Avusturya",62000,2.1,"Yuksek Gelir","Diger","Health_spending",9.9
+"Avusturya",62000,2.1,"Yuksek Gelir","Diger","R_D_spending",3.2
+"Avusturya",62000,2.1,"Yuksek Gelir","Diger","Elderly_percent",19.5

@@ -1,0 +1,127 @@
+"Country","Indicator","Value"
+"Turkiye","Income_per_capita",10500
+"Turkiye","Health_spending",4.3
+"Turkiye","Education_spending",3.8
+"Turkiye","Elderly_percent",9.5
+"Turkiye","R_D_spending",1.1
+"Turkiye","Environmental_spending",1.2
+"Amerika","Income_per_capita",80700
+"Amerika","Health_spending",8.4
+"Amerika","Education_spending",6.1
+"Amerika","Elderly_percent",17.1
+"Amerika","R_D_spending",3.5
+"Amerika","Environmental_spending",2.5
+"Birlesik Krallik","Income_per_capita",48000
+"Birlesik Krallik","Health_spending",10.2
+"Birlesik Krallik","Education_spending",5.2
+"Birlesik Krallik","Elderly_percent",18.7
+"Birlesik Krallik","R_D_spending",2.8
+"Birlesik Krallik","Environmental_spending",1.9
+"Almanya","Income_per_capita",56000
+"Almanya","Health_spending",11.7
+"Almanya","Education_spending",4.8
+"Almanya","Elderly_percent",21.5
+"Almanya","R_D_spending",3.1
+"Almanya","Environmental_spending",2.1
+"Fransa","Income_per_capita",47000
+"Fransa","Health_spending",11.1
+"Fransa","Education_spending",5
+"Fransa","Elderly_percent",20.4
+"Fransa","R_D_spending",2.2
+"Fransa","Environmental_spending",2
+"Japonya","Income_per_capita",42000
+"Japonya","Health_spending",10.9
+"Japonya","Education_spending",3.6
+"Japonya","Elderly_percent",29.1
+"Japonya","R_D_spending",3.4
+"Japonya","Environmental_spending",1.6
+"Kanada","Income_per_capita",52000
+"Kanada","Health_spending",10.8
+"Kanada","Education_spending",5.4
+"Kanada","Elderly_percent",18.4
+"Kanada","R_D_spending",2
+"Kanada","Environmental_spending",1.8
+"Avustralya","Income_per_capita",55000
+"Avustralya","Health_spending",9.3
+"Avustralya","Education_spending",5.6
+"Avustralya","Elderly_percent",16.5
+"Avustralya","R_D_spending",1.9
+"Avustralya","Environmental_spending",2
+"Guney Kore","Income_per_capita",41000
+"Guney Kore","Health_spending",8.4
+"Guney Kore","Education_spending",4.9
+"Guney Kore","Elderly_percent",18.1
+"Guney Kore","R_D_spending",4.8
+"Guney Kore","Environmental_spending",1.7
+"Italya","Income_per_capita",39000
+"Italya","Health_spending",8.7
+"Italya","Education_spending",4.2
+"Italya","Elderly_percent",23.8
+"Italya","R_D_spending",1.4
+"Italya","Environmental_spending",1.3
+"Ispanya","Income_per_capita",36000
+"Ispanya","Health_spending",8.1
+"Ispanya","Education_spending",4.3
+"Ispanya","Elderly_percent",20.1
+"Ispanya","R_D_spending",1.3
+"Ispanya","Environmental_spending",1.4
+"Meksika","Income_per_capita",23000
+"Meksika","Health_spending",5.5
+"Meksika","Education_spending",4.1
+"Meksika","Elderly_percent",8.2
+"Meksika","R_D_spending",0.3
+"Meksika","Environmental_spending",1
+"Hollanda","Income_per_capita",58000
+"Hollanda","Health_spending",10.1
+"Hollanda","Education_spending",5
+"Hollanda","Elderly_percent",19.6
+"Hollanda","R_D_spending",2.3
+"Hollanda","Environmental_spending",2.2
+"Isvec","Income_per_capita",57000
+"Isvec","Health_spending",10.9
+"Isvec","Education_spending",6.4
+"Isvec","Elderly_percent",20.3
+"Isvec","R_D_spending",3.4
+"Isvec","Environmental_spending",2.1
+"Polonya","Income_per_capita",22000
+"Polonya","Health_spending",6.5
+"Polonya","Education_spending",5.2
+"Polonya","Elderly_percent",17.7
+"Polonya","R_D_spending",1.4
+"Polonya","Environmental_spending",1.5
+"Norvec","Income_per_capita",75000
+"Norvec","Health_spending",10.5
+"Norvec","Education_spending",7
+"Norvec","Elderly_percent",17
+"Norvec","R_D_spending",1.7
+"Norvec","Environmental_spending",2.3
+"Finlandiya","Income_per_capita",60000
+"Finlandiya","Health_spending",9.5
+"Finlandiya","Education_spending",6.1
+"Finlandiya","Elderly_percent",21.9
+"Finlandiya","R_D_spending",2.8
+"Finlandiya","Environmental_spending",2.4
+"Danimarka","Income_per_capita",69000
+"Danimarka","Health_spending",10.2
+"Danimarka","Education_spending",6.5
+"Danimarka","Elderly_percent",20
+"Danimarka","R_D_spending",2.9
+"Danimarka","Environmental_spending",2.6
+"Belcika","Income_per_capita",53000
+"Belcika","Health_spending",10.7
+"Belcika","Education_spending",6.2
+"Belcika","Elderly_percent",18.3
+"Belcika","R_D_spending",2.7
+"Belcika","Environmental_spending",2
+"Isvicre","Income_per_capita",88000
+"Isvicre","Health_spending",11.5
+"Isvicre","Education_spending",6.8
+"Isvicre","Elderly_percent",19.7
+"Isvicre","R_D_spending",3.6
+"Isvicre","Environmental_spending",2.7
+"Avusturya","Income_per_capita",62000
+"Avusturya","Health_spending",9.9
+"Avusturya","Education_spending",5.3
+"Avusturya","Elderly_percent",19.5
+"Avusturya","R_D_spending",3.2
+"Avusturya","Environmental_spending",2.1
